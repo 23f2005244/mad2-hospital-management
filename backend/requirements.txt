@@ -8,4 +8,5 @@ celery==5.4.0
 Werkzeug==3.0.4
 SQLAlchemy==2.0.35
 flask-cors==5.0.0
-python-dotenv==1.0.1 requests==2.31.0
+python-dotenv==1.0.1
+requests==2.31.0
